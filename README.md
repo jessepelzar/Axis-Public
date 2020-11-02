@@ -55,5 +55,5 @@ The Vector process was a little more complex on the other hand due to the nature
 
 # Discalaimer
 
-Unfortunately I could not upload the rest of the developed product to a public repository. If you have any questions regarding the source, feel free to contact me by email: jessepelzar@gmail.com
+Unfortunately I could not upload the rest of the developed product to a public repository so I created this one to show what I can. If you have any questions regarding the source, feel free to contact me by email: jessepelzar@gmail.com
 
