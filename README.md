@@ -34,9 +34,9 @@ Direction:
 
 ## Images
 
-![picture](https://imgur.com/wVR1mHJ)
-![picture](https://imgur.com/6Z81HdI)
-![picture](https://imgur.com/HgHfoKH)
+![picture](https://github.com/jessepelzar/Axis-Public/blob/master/img1.png)
+![picture](https://github.com/jessepelzar/Axis-Public/blob/master/img2.png)
+![picture](https://github.com/jessepelzar/Axis-Public/blob/master/img3.png)
 
 
 # Discalaimer
