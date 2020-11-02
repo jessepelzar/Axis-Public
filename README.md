@@ -38,6 +38,14 @@ Utilizing the npm SerialPort Package, I was able to have the software detect con
 
 The method I came up with to compile an image into G-Code utilizes pixels on the canvas which are mapped to physical measurements. These pixels are rendered as coordinates which when generated, are reconized by their X and Y positioning on the canvas. 
 
+## Engraving Styles 
+
+Viewing the screenshots below, you can see on the right side there are two boxes above the "Generate Output" button. These represent the two engraving styles, Raster and Vector. 
+
+The Rastor process and engraves in a horizontal movement. For achieving different saturations, the algorithm adjusts the speed of the laser head and adjusts the laser intensity.
+
+The Vector process was a little more complex on the other hand due to the nature of vector engraving being outline based. This was achived by writing a path following algorithm that could detect black pixels and choosing the next coordinate to be the closest neighbor. 
+
 ## Images
 
 ![picture](https://github.com/jessepelzar/Axis-Public/blob/master/img1.png)
