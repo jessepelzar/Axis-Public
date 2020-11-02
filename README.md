@@ -30,7 +30,13 @@ Direction:
 - Emboss: Adds emboss texture to selected object
 - Invert: inverts color on selected object 
 
+## Serial
 
+Utilizing the npm SerialPort Package, I was able to have the software detect connected serial devices and display them as a list. When selected the device, operations could then be performed which includes manuvering the laser engraver head, toggling the power of the laser, and sending G-Code to the engraver.
+
+## G-Code Generation
+
+The method I came up with to compile an image into G-Code utilizes pixels on the canvas which are mapped to physical measurements. These pixels are rendered as coordinates which when generated, are reconized by their X and Y positioning on the canvas. 
 
 ## Images
 
